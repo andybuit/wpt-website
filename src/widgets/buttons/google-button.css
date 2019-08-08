@@ -1,0 +1,13 @@
+/* Google */
+.loginBtn_google {
+  /*font-family: "Roboto", Roboto, arial, sans-serif;*/
+  background: #dd4b39;
+}
+.loginBtn_google:before {
+  background: url("../../../static/images/google.png") 3px 3px no-repeat;
+  background-size: 34px 34px;
+}
+.loginBtn_google:hover,
+.loginBtn_google:focus {
+  background: #e74b37;
+}
